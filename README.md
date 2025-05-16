@@ -1,2 +1,1 @@
-# mtc-repo
-This repo is created via terraform. Manual edit will be overwritten
+# This repository is for infra developers.
